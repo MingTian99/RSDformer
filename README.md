@@ -19,7 +19,7 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 
 ## News
 
-- **July 11, 2023:** Paper sumbitted to IEEE GRSL. 
+- **July 11, 2023:** Paper submitted to IEEE GRSL. 
 - **Sep 13, 2023:** The basic version is released, including codes, [pre-trained models on Sate 1k dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t), and [the used dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t).
 ## Preparation
 
@@ -42,9 +42,9 @@ pip install matplotlib scikit-image opencv-python numpy einops math natsort tqdm
 
 ### Download
 
-You can download the pretrained models and datasets on [GoogleDrive](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) or [BaiduPan](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) (pu2t).
+You can download the pre-trained models and datasets on [GoogleDrive](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) or [BaiduPan](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) (pu2t).
 
-Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  The pretrained-models trained on RICE will be updated as quickly as possible.
+Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  The pre-trained models trained on RICE will be updated as quickly as possible.
 
 The final file path should be the same as the following:
 
@@ -86,7 +86,6 @@ You should change the path to yours in the `Dataload.py` file.  Then run the fol
 ```sh
 python PSNR_SSIM.py
 ```
-Please note that there exists the slight gap in the final version  due to errors caused by different testing devices and environments. 
 It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
 
 ### Visual Results
@@ -95,8 +94,8 @@ The visual results will be released soon.
 
 ## Notes
 
-1. Send email to songtienyu@163.com if you have critical issues to be addressed.
-2. Test results using opencv installed with conda are lower than pypi since they call different JPEG image codecs.
+1. Send e-mail to songtienyu@163.com if you have critical issues to be addressed.
+2. Please note that there exists the slight gap in the final version due to errors caused by different testing devices and environments. 
 3. Because the synthetic dataset is not realistic enough, the trained models may not work well on real hazy images.
 
 
