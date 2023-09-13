@@ -19,7 +19,7 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 
 ## News
 
-- **July 11, 2023:** Paper submitted to IEEE GRSL. 
+- **July 4, 2023:** Paper submitted to IEEE GRSL. 
 - **Sep 13, 2023:** The basic version is released, including codes, [pre-trained models on Sate 1k dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t), and [the used dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t).
 ## Preparation
 
