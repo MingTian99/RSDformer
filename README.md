@@ -21,6 +21,8 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 
 - **July 4, 2023:** Paper submitted. 
 - **Sep 13, 2023:** The basic version is released, including codes, [pre-trained models on Sate 1k dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t), and [the used dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t).
+- **Sep 14, 2023:** [RICE dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) updated.
+  
 ## Preparation
 
 ### Install
