@@ -15,7 +15,7 @@ In this way, the model exhibits robust capabilities to capture dependencies from
 Extensive experiments prove that the proposed method obtains more appealing performances against other competitive methods.
 The source codes are available at https://github.com/MingTian99/RSDformer
 
-!RSDformer(figs/arch.png)
+![RSDformer](figs/arch.png)
 
 ## News
 
