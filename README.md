@@ -70,10 +70,18 @@ The final file path should be the same as the following:
     └─ ... (dataset name)
 
 ```
-## Testing and Evaluation
+##Train. Testing and Evaluation
+
+### Train
+The training code will be released after the paper is accepted.
+You should change the path to yours in the `Train.py` file.  Then run the following script to test the trained model:
+
+```sh
+python Train.py
+```
 
 ### Test
-You should change the path to yours in the `test.py` file.  Then run the following script to test the trained model:
+You should change the path to yours in the `Test.py` file.  Then run the following script to test the trained model:
 
 ```sh
 python Test.py
