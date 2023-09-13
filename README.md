@@ -70,7 +70,7 @@ The final file path should be the same as the following:
     └─ ... (dataset name)
 
 ```
-##Train. Testing and Evaluation
+### Training, Testing and Evaluation
 
 ### Train
 The training code will be released after the paper is accepted.
