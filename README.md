@@ -42,9 +42,9 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
-    <td align="center"> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1r7RvVBKIj-viGxdxGE-HsQ?pwd=axjx ">Download</a> </td>
+    <td align="center"> <a href="https://pan.baidu.com/s/1r7RvVBKIj-viGxdxGE-HsQ?pwd=axjx ">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1r7RvVBKIj-viGxdxGE-HsQ?pwd=axjx ">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/1zbTBTys4VqL9CnJI0UFgoQ?pwd=7vj5">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/1OZUWj8eo6EmP5Rh8DE1mrA?pwd=8ad5">Download</a> </td>
   </tr>
