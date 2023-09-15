@@ -61,7 +61,6 @@ Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in th
     <th>Moderate Haze</th>
     <th>Thick Haze</th>
     <th>RICE</th>
-    <th>RSSD300</th>
   </tr>
 </thead>
 <tbody>
@@ -70,8 +69,7 @@ Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in th
     <td> <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
     <td align="true"> <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
     <td > <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
-    <td> <a href="coming soon">Download</a> </td>
-    <td> <a href="coming soon">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1OWtEGwccqzf6cmCtDhWZnA?pwd=gj56">Download</a> </td>
   </tr>
 </tbody>
 <tbody>
@@ -80,8 +78,7 @@ Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in th
     <td> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
     <td align="true"> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
     <td> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
-    <td> <a href="coming soon">Download</a> </td>
-    <td> <a href="coming soon">Download</a> </td>
+    <td> <a href="https://drive.google.com/drive/folders/1-d4OrxIbN3sN5coywpAvQavFIpQKxQwN?usp=drive_link">Download</a> </td>
   </tr>
 </tbody>
 </table>
