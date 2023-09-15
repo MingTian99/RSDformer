@@ -33,7 +33,7 @@ The source codes are available at https://github.com/MingTian99/RSDformer
   <tr>
     <th>Dataset</th>
     <th>Thin Haze</th>
-    <the align="center">Moderate Haze</th>
+    <th align="center">Moderate Haze</th>
     <th>Thick Haze</th>
     <th>RICE</th>
     <th>RSSD300</th>
