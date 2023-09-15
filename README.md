@@ -100,7 +100,32 @@ It is recommended that you can download the visual deraining results and retest 
 
 ### Visual Results
 
-The visual results will be released soon.
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Thin Haze</th>
+    <th>Moderate Haze</th>
+    <th>Thin Haze</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Google Drive</td>
+    <td> <a href="https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link">Download</a> </td>
+    <td> <a href="https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link">Download</a> </td>
+    <td> <a href="https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link">Download</a> </td>
+  </tr>
+</tbody>
+</table>
 
 ## Notes
 
