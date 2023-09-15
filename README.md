@@ -138,5 +138,4 @@ It is recommended that you can download the visual deraining results and retest 
 
 ## Acknowledgment
 
-This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.
-This real-world dataset RRSD300 is collected from [RSHazeNet](https://github.com/chdwyb/RSHazeNet). Thanks for their awesome work.
+This code is based on the [Restormer](https://github.com/swz30/Restormer). The real-world dataset RRSD300 is collected from [RSHazeNet](https://github.com/chdwyb/RSHazeNet). Thanks for their awesome work.
