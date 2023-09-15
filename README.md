@@ -22,7 +22,9 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 - **July 4, 2023:** Paper submitted. 
 - **Sep 13, 2023:** The basic version is released, including codes, [pre-trained models on Sate 1k dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t), and [the used dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t).
 - **Sep 14, 2023:** [RICE dataset](https://pan.baidu.com/s/1zbTBTys4VqL9CnJI0UFgoQ?pwd=7vj5) updated.
-  
+- **Sep 15, 2023:** The [visual results on Sate 1K](https://pan.baidu.com/s/1dToHnHI9GVaHQ3-I6OIbpA?pwd=rs1k) and [real-world dataset RSSD300](https://pan.baidu.com/s/1OZUWj8eo6EmP5Rh8DE1mrA?pwd=8ad5) are updated.
+
+
 ## Preparation
 
 ### Install
@@ -137,4 +139,4 @@ It is recommended that you can download the visual deraining results and retest 
 ## Acknowledgment
 
 This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.
-
+This real-world dataset RRSD300 is collected from [RSHazeNet](https://github.com/chdwyb/RSHazeNet). Thanks for their awesome work.
