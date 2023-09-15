@@ -27,6 +27,31 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 
 ## Preparation
 
+## Datasets
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Thin Haze</th>
+    <th>Moderate Haze</th>
+    <th>Thick Haze</th>
+    <th>RICE</th>
+    <th>RSSD300</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1zbTBTys4VqL9CnJI0UFgoQ?pwd=7vj5">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1OZUWj8eo6EmP5Rh8DE1mrA?pwd=8ad5">Download</a> </td>
+  </tr>
+</tbody>
+</table>
+Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in the Sate 1K dataset. We provide completely paired images, except for RRSD300, as it is a real-world remote sensing haze dataset. 
+
 ### Install
 
 We test the code on PyTorch 1.9.1 + CUDA 11.1 + cuDNN 8.0.5.
