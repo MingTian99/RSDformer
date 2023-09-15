@@ -82,6 +82,7 @@ Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in th
   </tr>
 </tbody>
 </table>
+Currently, we only provide the pre-trained models trained on the Sate 1K dataset. The pre-trained model of the RICE dataset will be updated as quickly as soon.
 
 ### Install
 
@@ -104,7 +105,9 @@ pip install matplotlib scikit-image opencv-python numpy einops math natsort tqdm
 
 You can download the pre-trained models and datasets on [GoogleDrive](https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link) or [BaiduPan](https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo).
 
-Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  The pre-trained models trained on RICE will be updated as quickly as possible.
+Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  
+
+The pre-trained models trained on RICE will be updated as quickly as possible.
 
 The final file path should be the same as the following:
 
@@ -184,7 +187,7 @@ It is recommended that you can download the visual deraining results and retest 
   </tr>
 </tbody>
 </table>
-
+Currently, we provide the visual results on the Sate 1K dataset. The visual results of the RICE dataset and RSSD300 will be updated as quickly as soon.
 ## Notes
 
 1. Send e-mail to songtienyu@163.com if you have critical issues to be addressed.
