@@ -52,6 +52,40 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 </table>
 Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in the Sate 1K dataset. We provide completely paired images, except for RRSD300, as it is a real-world remote sensing haze dataset. 
 
+## Pre-trained Models
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Thin Haze</th>
+    <th>Moderate Haze</th>
+    <th>Thick Haze</th>
+    <th>RICE</th>
+    <th>RSSD300</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
+    <td align="true"> <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
+    <td > <a href="https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo">Download</a> </td>
+    <td> <a href="coming soon">Download</a> </td>
+    <td> <a href="coming soon">Download</a> </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Google Drive</td>
+    <td> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
+    <td align="true"> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
+    <td> <a href="https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link">Download</a> </td>
+    <td> <a href="coming soon">Download</a> </td>
+    <td> <a href="coming soon">Download</a> </td>
+  </tr>
+</tbody>
+</table>
+
 ### Install
 
 We test the code on PyTorch 1.9.1 + CUDA 11.1 + cuDNN 8.0.5.
@@ -71,7 +105,7 @@ pip install matplotlib scikit-image opencv-python numpy einops math natsort tqdm
 
 ### Download
 
-You can download the pre-trained models and datasets on [GoogleDrive](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) or [BaiduPan](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t) (pu2t).
+You can download the pre-trained models and datasets on [GoogleDrive](https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link) or [BaiduPan](https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo).
 
 Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  The pre-trained models trained on RICE will be updated as quickly as possible.
 
