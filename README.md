@@ -188,6 +188,7 @@ It is recommended that you can download the visual deraining results and retest 
 </tbody>
 </table>
 Currently, we provide the visual results on the Sate 1K dataset. The visual results of the RICE dataset and RSSD300 will be updated as quickly as soon.
+
 ## Notes
 
 1. Send e-mail to songtienyu@163.com if you have critical issues to be addressed.
