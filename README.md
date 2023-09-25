@@ -51,6 +51,7 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 </tbody>
 </table>
 Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in the Sate 1K dataset. We provide completely paired images, except for RRSD300, as it is a real-world remote sensing haze dataset. 
+
 <!---
 ## Pre-trained Models
 <table>
@@ -84,6 +85,7 @@ Here, the ''Thin haze'', ''Moderate haze'' and ''Thick haze'' are included in th
 </table>
 Currently, we only provide the pre-trained models trained on the Sate 1K dataset. The pre-trained model of the RICE dataset will be updated as quickly as soon.
 --->
+
 ### Install
 
 We test the code on PyTorch 1.9.1 + CUDA 11.1 + cuDNN 8.0.5.
