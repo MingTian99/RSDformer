@@ -1,4 +1,4 @@
-# RSDformer: Learning An Effective Transformer for Remote Sensing Satellite Image Dehazing
+# Learning An Effective Transformer for Remote Sensing Satellite Image Dehazing
 <!---
 [![GoogleDrive](https://img.shields.io/badge/Data-GoogleDrive-brightgreen)](https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link)
 [![BaiduPan](https://img.shields.io/badge/Data-BaiduPan-brightgreen)](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t)
