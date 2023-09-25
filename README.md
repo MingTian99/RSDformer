@@ -1,7 +1,8 @@
 # RSDformer: Learning An Effective Transformer for Remote Sensing Satellite Image Dehazing
-
+<!---
 [![GoogleDrive](https://img.shields.io/badge/Data-GoogleDrive-brightgreen)](https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link)
 [![BaiduPan](https://img.shields.io/badge/Data-BaiduPan-brightgreen)](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t)
+--->
 
 > **Abstract:** 
 The existing remote sensing (RS) image dehazing methods based on deep learning have sought help from the convolutional frameworks.
@@ -20,8 +21,8 @@ The source codes are available at https://github.com/MingTian99/RSDformer
 ## News
 
 - **July 4, 2023:** Paper submitted. 
-- **Sep 13, 2023:** The basic version is released, including codes, [pre-trained models on Sate 1k dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t), and [the used dataset](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t).
-- **Sep 14, 2023:** [RICE dataset](https://pan.baidu.com/s/1zbTBTys4VqL9CnJI0UFgoQ?pwd=7vj5) updated.
+- **Sep 13, 2023:** The basic version is released, including codes, pre-trained models on the Sate 1k dataset, and the used dataset.
+- **Sep 14, 2023:** RICE dataset updated.
 <!---  ** Sep 15, 2023:** The [visual results on Sate 1K](https://pan.baidu.com/s/1dToHnHI9GVaHQ3-I6OIbpA?pwd=rs1k) and [real-world dataset RSSD300](https://pan.baidu.com/s/1OZUWj8eo6EmP5Rh8DE1mrA?pwd=8ad5) are updated.-->
 
 
