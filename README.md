@@ -106,7 +106,7 @@ pip install matplotlib scikit-image opencv-python numpy einops math natsort tqdm
 
 ### Download
 
-You can download the pre-trained models and datasets on [GoogleDrive](https://drive.google.com/drive/folders/1Dbja877w0TWXDqw9WYVwnRQMl6V9DkaT?usp=drive_link) or [BaiduPan](https://pan.baidu.com/s/1ncoc2qnlZd5hkSak6jEvrw?pwd=0nvo).
+You can download the pre-trained models and datasets on Google Drive or BaiduPan.
 
 Currently, we only provide the pre-trained model trained on the Sate 1K dataset and the used dataset (Sate 1K, RICE and RRSD300).  
 
