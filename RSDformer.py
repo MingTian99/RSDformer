@@ -379,9 +379,8 @@ class Remote_Sensing_Dehazing_Transformer(nn.Module):
         return out_dec_level1
 
 
-def Dual_Stream_Transformer_S():
+def RSDformer():
     return Remote_Sensing_Dehazing_Transformer(inp_channels=3, out_channels=3, dim=[24, 48, 96, 192],
                                                num_blocks=[4, 8, 8, 4], heads=[2, 4, 8, 8],
                                                ffn_expansion_factor=3, bias=False, LayerNorm_type='WithBias')
 
-model = Dual_Stream_Transformer_S().cuda()
