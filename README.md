@@ -150,7 +150,7 @@ You should change the path to yours in the `Test.py` file.  Then run the followi
 python Test.py
 ```
 
-
+<!---
 ### Evaluation
 You should change the path to yours in the `Dataload.py` file.  Then run the following script to test the trained model:
 
@@ -158,7 +158,7 @@ You should change the path to yours in the `Dataload.py` file.  Then run the fol
 python PSNR_SSIM.py
 ```
 It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
-
+--->
 ### Visual Results
 
 <table>
